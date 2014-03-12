@@ -1,0 +1,156 @@
+/* You may use the following selectors, but it's not required. */
+
+body {
+	font-family: Raleway;
+	font-weight: 300;
+	
+}
+
+#container {
+	
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 0px;
+    
+}
+
+#banner{
+	text-align: center;
+}
+
+#bottom_banner {
+	text-align: center;
+	padding-top: 40px;
+}
+
+#thumbnail {
+	
+	/* margin-left:auto; */
+	/* margin-right: auto; */
+	float: right;
+	padding-top: 1.5%;
+   
+}
+
+#thumbnail img {
+   
+}
+a {
+	color: inherit;
+}
+
+#header {
+	text-align: center;
+	margin: 30px;
+	font-family: Lato;
+    
+}
+
+#heading {
+	text-align: center;
+	font-weight: bold;
+	margin: 15px;
+	font-family: Lato;
+	font-size: 25px;
+
+}
+
+#subheading {
+	text-align: center;
+    font-weight: bold;
+    padding-bottom: 30px;
+    font-family: Lato;
+    text-size: 25px;
+}
+
+#description {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    line-height: 40px;
+    padding-bottom: 3%;
+}
+#hobbies {
+    position: relative;
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+    line-height: 40px;
+    font-size: 20px;
+}
+#link {
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	text-decoration: none;
+	background-color: #7aba71;
+	text-align: center;
+	padding: 20px 30px;
+	width: 120px;
+	border-radius: 3px;
+
+}
+
+
+#list-container {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+
+#list-title {
+	text-decoration: underline;
+	padding-bottom:10px
+	;
+	
+}
+.list-item{
+	padding-bottom: 3px;
+}
+.list-items{
+	padding-bottom: 3px;
+
+	
+}
+
+#nd-list {
+	font-size: 13px;
+	font-style: italic;
+
+	
+}
+#future_title{
+	text-align:center;
+	font-weight:700;
+	margin-top:50px;
+	margin-bottom: 40px;
+	border-top: solid 1px #ddd;
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+}
+
+#future_content{
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 40px;
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer {
+	margin: 2em;
+	border-top: 1px solid #ddd;
+	text-align: center;
+	padding: 2em;
+}
+
+.social-media {
+	padding: 1em;
+}
+
